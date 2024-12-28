@@ -1,0 +1,7 @@
+- [首页](/)
+- [使用指南](/guide)
+- [配置](/config)
+- 常用功能
+  - [功能1](/features/feature1)
+  - [功能2](/features/feature2)
+- [关于我](/about)
