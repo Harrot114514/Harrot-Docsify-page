@@ -1,8 +1,8 @@
-![logo](_media/icon.svg)
+![logo](images/icon.png)
 
-# docsify <small>3.5</small>
+# 个人博客
 
-> 一个神奇的文档网站生成器。
+> 不会起名的萝卜君
 
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
