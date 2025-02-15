@@ -1,4 +1,4 @@
-![logo](images/icon.png)
+![logo](https://harrot114514.github.io/Harrot-Docsify-page/images/icon.jpg)
 
 # 个人博客
 
